@@ -1,0 +1,15 @@
+C:\Proyectos\bcg\ecommerce\src\main\java\com\ecommerce\prices\domain\model\Price.java
+C:\Proyectos\bcg\ecommerce\src\main\java\com\ecommerce\prices\infrastructure\outbound\persistence\PriceJpaRepository.java
+C:\Proyectos\bcg\ecommerce\src\main\java\com\ecommerce\prices\infrastructure\outbound\persistence\PriceRepositoryAdapter.java
+C:\Proyectos\bcg\ecommerce\src\main\java\com\ecommerce\prices\application\service\FindPriceService.java
+C:\Proyectos\bcg\ecommerce\src\main\java\com\ecommerce\prices\domain\port\in\FindPriceUseCase.java
+C:\Proyectos\bcg\ecommerce\src\main\java\com\ecommerce\prices\infrastructure\inbound\rest\dto\PriceResponseDto.java
+C:\Proyectos\bcg\ecommerce\src\main\java\com\ecommerce\prices\infrastructure\inbound\rest\dto\ErrorResponseDto.java
+C:\Proyectos\bcg\ecommerce\src\main\java\com\ecommerce\prices\domain\exception\PriceNotFoundException.java
+C:\Proyectos\bcg\ecommerce\src\main\java\com\ecommerce\prices\infrastructure\inbound\rest\mapper\PriceRestMapper.java
+C:\Proyectos\bcg\ecommerce\src\main\java\com\ecommerce\prices\domain\port\out\PriceRepositoryPort.java
+C:\Proyectos\bcg\ecommerce\src\main\java\com\ecommerce\prices\infrastructure\outbound\persistence\mapper\PriceMapper.java
+C:\Proyectos\bcg\ecommerce\src\main\java\com\ecommerce\prices\infrastructure\inbound\rest\PriceController.java
+C:\Proyectos\bcg\ecommerce\src\main\java\com\ecommerce\prices\PricingApplication.java
+C:\Proyectos\bcg\ecommerce\src\main\java\com\ecommerce\prices\infrastructure\inbound\rest\exception\GlobalExceptionHandler.java
+C:\Proyectos\bcg\ecommerce\src\main\java\com\ecommerce\prices\infrastructure\outbound\persistence\entity\PriceEntity.java
